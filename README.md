@@ -1,2 +1,2 @@
 # Sentiment-analysis-and-topic-modeling
-Here a litle bit of inform,etion about the code
+Here a litle bit of inform,etion about the code bla bka
